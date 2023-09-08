@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Carter!
 
 - 🔭 I’m currently working on [To-Do App](https://github.com/CarterJWard/ODIN-ToDo)
-- 🌱 I’m currently learning Javascript & Single Page Web Applications
+- 🌱 I’m currently learning Javascript, Single Page Web Applications, C#
 
 <!--
 **CarterJWard/CarterJWard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
