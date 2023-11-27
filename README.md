@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Carter!
-
+_Junior Support Engineer @Flkitover_
 - 🔭 I’m currently working on [To Do app](https://github.com/CarterJWard/bunToDo) using the BETH Stack.
 - 🌱 I’m currently learning Javascript, Single Page Web Applications, C#
 
