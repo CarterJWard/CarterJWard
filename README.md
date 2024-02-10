@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Carter!
 _Junior Support Engineer @Flkitover_
 - 🔭 I’m currently working on [To Do app](https://github.com/CarterJWard/bunToDo) using the BETH Stack.
-- 🌱 I’m currently learning Javascript, Single Page Web Applications, C#
+- 🌱 I’m currently learning Javascript, MongoDB & Rust 🦀
 
 <!--
 **CarterJWard/CarterJWard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
